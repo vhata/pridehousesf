@@ -64,7 +64,7 @@ body {
     white-space: nowrap;
 }
 
-.email-button {
+.instagram-button {
     display: inline-block;
     padding: 1.25rem 2.5rem;
     font-size: 1.1rem;
@@ -77,13 +77,13 @@ body {
     box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);
 }
 
-.email-button:hover {
+.instagram-button:hover {
     transform: translateY(-2px);
     box-shadow: 0 6px 20px rgba(102, 126, 234, 0.6);
     background: linear-gradient(135deg, #764ba2 0%, #667eea 100%);
 }
 
-.email-button:active {
+.instagram-button:active {
     transform: translateY(0);
 }
 
@@ -100,7 +100,7 @@ body {
         padding: 3rem 2rem;
     }
 
-    .email-button {
+    .instagram-button {
         font-size: 1rem;
         padding: 1rem 2rem;
     }
